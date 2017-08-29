@@ -241,12 +241,22 @@ nav{
 .solution-premium {
 	border: 5px solid rgb(255, 210, 0);
 	border-radius: 10px;
+<<<<<<< HEAD
 	height: 420px;
 	width: 315px;
+=======
+	height: 320px;
+	width: 255px;
+>>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 }
 
 .solution-classic {
 	position: relative;
+<<<<<<< HEAD
+=======
+	margin-left: 60px;
+	margin-right: 60px;
+>>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 }
 
 .solutions-cards h3 {
@@ -263,15 +273,54 @@ nav{
 
 .solutions-cards p {
 	background-color: rgb(255, 210, 0);
+<<<<<<< HEAD
 }
 
+=======
+	font-size: 19px;
+	line-height: 1.2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.solutions-cards ul {
+	height: 103px;
+}
+
+.solutions-cards b {
+  display: block;
+  font-size: 45px;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+}
+>>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 
 .besseller:before {
 	content: "BESTSELLER";
 	position: absolute;
+<<<<<<< HEAD
 	left: 110px;
 	top: -20px;
 	background-color: rgb(255, 210, 0);
 	
 	
+=======
+	left: 75px;
+	top: -25px;
+	background-color: rgb(255, 210, 0);
+    padding: 5px;
+}
+
+.main-testimonials {
+	background-image: url(../image/testimonals-banner.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center top;
+	height: 767px;
+	border-top: 1px solid white;
+	margin-top: 100px;
+>>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 }

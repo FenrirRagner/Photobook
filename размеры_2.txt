@@ -1,0 +1,1314 @@
+﻿photobook-top-panel: height: 80px; width: 1583px;
+photobook-main-banner-background-image: width: 1520px; height: 547px;
+
+.Create_your_own_photostory {
+  font-size: 22(60)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 634.867px;
+  top: 142.314px;
+  z-index: 174;
+}
+
+
+.Make_your_photobook_online {
+  font-size: 8.791px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 706.022px;
+  top: 209.263px;
+  z-index: 173;
+}
+
+
+.Button_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 172;
+}
+.make_your_photobook {
+  font-size: 19.303(26)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -webkit-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -ms-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  position: absolute;
+  left: 646.656px;
+  top: 317.918px;
+  z-index: 171;
+}
+.Rounded_Rectangle_1_copy {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(1, 1, 1);
+  border-radius: 10px;
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 569px;
+  top: 293px;
+  width: 381px;
+  height: 70px;
+  z-index: 170;
+}
+
+
+.Rounded_Rectangle_1_copy {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(1, 1, 1);
+  border-radius: 10px;
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 569px;
+  top: 293px;
+  width: 381px;
+  height: 70px;
+  z-index: 170;
+}
+
+_______________
+.Ellipse_1_copy_4 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 210, 0);
+  border-radius: 50%;
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 280px;
+  top: 676px;
+  width: 140px;
+  height: 140px;
+  z-index: 161;
+}
+
+
+.Download__photos {
+  font-size: 8.791 (24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 331.912px;
+  top: 859.988px;
+  z-index: 162;
+}
+
+
+.Design_your_photobook {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 602.253px;
+  top: 860.051px;
+  z-index: 155;
+}
+
+
+.Pay_for_service {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 874.215px;
+  top: 858.488px;
+  z-index: 149;
+}
+
+
+.Get_your_photobook {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1142.594px;
+  top: 860.161px;
+  z-index: 144;
+}
+
+________________
+
+.Advantage {
+  font-size: 22(60)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 715.587px;
+  top: 1054.814px;
+  z-index: 140;
+}
+
+
+.social_media_optimisation_smo {
+  background-image: url("social_media_optimisation_smo.png");
+  position: absolute;
+  left: 275px;
+  top: 1187px;
+  width: 202px;
+  height: 192px;
+  z-index: 138;
+}
+
+
+.Ellipse_1 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 242px;
+  top: 1156px;
+  width: 267px;
+  height: 267px;
+  z-index: 136;
+}
+
+.Import_photos__from_your_social_networks {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 327.886px;
+  top: 1462.328px;
+  z-index: 135;
+}
+
+
+.Layer_3 {
+  background-image: url("Layer 3.png");
+  position: absolute;
+  left: 553px;
+  top: 1151px;
+  width: 412px;
+  height: 275px;
+  z-index: 131;
+}
+
+.Photo_editing_ {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 731.407px;
+  top: 1453.2px;
+  z-index: 129;
+}
+
+
+._0 {
+  background-image: url("0.png");
+  position: absolute;
+  left: 985px;
+  top: 1119px;
+  width: 471px;
+  height: 471px;
+  z-index: 125;
+}
+
+.Ellipse_1_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 1012px;
+  top: 1156px;
+  width: 267px;
+  height: 267px;
+  z-index: 124;
+}
+.Templates {
+  font-size: 8.791(24)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1126.383px;
+  top: 1452.763px;
+  z-index: 123;
+}
+
+
+.make_your_photobook {
+  font-size: 19.303(26)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -webkit-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -ms-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  position: absolute;
+  left: 646.656px;
+  top: 1684.918px;
+  z-index: 120;
+}
+
+.Rounded_Rectangle_1_copy_6 {
+  border-radius: 10px;
+  background-color: rgba(138, 255, 80, 0);
+  position: absolute;
+  left: 572px;
+  top: 1663px;
+  width: 377px;
+  height: 66px;
+  z-index: 119;
+}
+
+
+.BG {
+  background-color: rgb(243, 240, 231);
+  position: absolute;
+  left: -92px;
+  top: 989px;
+  width: 1704px;
+  height: 817px;
+  z-index: 117;
+}
+
+_____________________
+block 221px
+.Ready_solutions {
+  font-size: 22(60)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 687.897px;
+  top: 1885.814px;
+  z-index: 114;
+}
+
+
+._129 {
+  font-size: 22px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 356.007px;
+  top: 2315.363px;
+  z-index: 112;
+}
+
+
+.______15×10_cm_______12_pages_______binding_on_ {
+  font-size: 6.593(18)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 320.513px;
+  top: 2164.747px;
+  z-index: 111;
+}
+
+
+.LightBook {
+  font-size: 13(36)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 347.002px;
+  top: 2052.588px;
+  z-index: 110;
+}
+
+.Rounded_Rectangle_1_copy_15 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 222px;
+  top: 2007px;
+  width: 311px;
+  height: 112px;
+  z-index: 108;
+}
+
+
+.Make_your_LightBook {
+  font-size: 19.303(21.67)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -webkit-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -ms-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  position: absolute;
+  left: 285.309px;
+  top: 2384.546px;
+  z-index: 109;
+}
+
+.Rectangle_4_copy {
+  background-color: rgb(255, 210, 0);
+  position: absolute;
+  left: 225px;
+  top: 2371px;
+  width: 305px;
+  height: 47px;
+  z-index: 107;
+}
+
+
+.Rounded_Rectangle_2_copy {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 210, 0);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  left: 215px;
+  top: 1997px;
+  width: 315px;
+  height: 420px;
+  z-index: 106;
+}
+
+
+.Layer_6_copy_4 {
+  background-image: url("Layer 6 copy 4.png");
+  position: absolute;
+  left: 248px;
+  top: 2140px;
+  width: 20px;
+  height: 20px;
+  z-index: 105;
+}
+
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="20px" height="20px">
+<image  x="0px" y="0px" width="20px" height="20px"  xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA21BMVEUAAADw0TPx0TTx0TTw0DPx0TTx0TTw0TPw0DPw0DPx0TTx0TTx0TTw0DPx0TTx0TTx0TTw0TPw0TPw0TPw0TMnJCXw0TPx0TTx0TQnJSUnJSYmJCXw0TPx0TTx0TQnJCUmJCUnJCXw0DPw0TMnJCXw0TMnJSXw0TMnJSXx0TQnJCXx0TQnJCUnJCUnJSbw0TMnJCXw0TPw0TMnJSbw0DPw0TPw0TPx0TTw0DPx0TTx0TTw0DPw0TPw0DPw0TPw0DPx0TTx0TTw0TPw0DMnJCUmJCUnJSXx0TP///+hGKrzAAAAQXRSTlMAC2S06eexU2Hr6yUDn998NRcSMiMx+3oGW/2IYftOW/2IC+v934i0/emKF08BlzWX6XyItGR6Yfv8n3oGBvzfC3k13JwAAAABYktHREjwAtTqAAAAB3RJTUUH4QgdBikiFmQEuQAAAPBJREFUGNNNkHtXgkAUxK9rTxKhJ5AoBJoQWVmWRc+5i/b9v1HsQq7zx95zf7sz5+wQKXVEdwfY3dsno4NDMEuW1tEG9WxG33GPT07P1HquoY0Lz988CS4H9RnycGSSori6IkpSeIYF41XNSMiJ8Ubj6lrNKRzDMuWtlcMluolaNmhuGQXdruJA5f0zDWd3VRYFbV4BUC7viWYPVZytNSMXc5ryI2m6fmqsjlzQM/q+pm2eP4GgjoWXrW7I4zQhWuJ165ujt9+lmiWG7x8N+vS+YDfVldDVFa7zLVH2Wk+YMkOqoq3QJCVikYPnXfGj1z/HBSCq3miTBAAAAABJRU5ErkJggg==" />
+</svg>
+
+
+.ClassicBook {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 101;
+}
+.bestseller {
+  font-size: 8.791(20.76)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(225, 26, 39);
+  font-weight: bold;
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.36181534649597,0,0,2.36181534649597,0,0);
+  -webkit-transform: matrix( 2.36181534649597,0,0,2.36181534649597,0,0);
+  -ms-transform: matrix( 2.36181534649597,0,0,2.36181534649597,0,0);
+  position: absolute;
+  left: 741.607px;
+  top: 1995.725px;
+  z-index: 100;
+}
+.ClassicBook {
+  font-size: 13(36)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 722.605px;
+  top: 2052.088px;
+  z-index: 99;
+}
+.Rounded_Rectangle_1_copy_13 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 603px;
+  top: 2003px;
+  width: 313px;
+  height: 116px;
+  z-index: 98;
+}
+._239 {
+  font-size: 22px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 737.188px;
+  top: 2315.363px;
+  z-index: 97;
+}
+.______30×21_cm_______36_pages_______binding_on_ {
+  font-size: 6.593px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 709.864px;
+  top: 2173.96px;
+  z-index: 96;
+}
+.Layer_6_copy_3 {
+  background-image: url("Layer 6 copy 3.png");
+  position: absolute;
+  left: 628px;
+  top: 2140px;
+  width: 20px;
+  height: 20px;
+  z-index: 95;
+}
+.Layer_6_copy_2 {
+  background-image: url("Layer 6 copy 2.png");
+  position: absolute;
+  left: 628px;
+  top: 2171px;
+  width: 20px;
+  height: 20px;
+  z-index: 94;
+}
+.Layer_6_copy {
+  background-image: url("Layer 6 copy.png");
+  position: absolute;
+  left: 628px;
+  top: 2202px;
+  width: 20px;
+  height: 20px;
+  z-index: 93;
+}
+.Layer_6 {
+  background-image: url("Layer 6.png");
+  position: absolute;
+  left: 628px;
+  top: 2233px;
+  width: 20px;
+  height: 20px;
+  z-index: 92;
+}
+.Shape_1 {
+  background-color: rgb(225, 26, 39);
+  position: absolute;
+  left: 663px;
+  top: 1980px;
+  width: 194px;
+  height: 45px;
+  z-index: 91;
+}
+.Rounded_Rectangle_2_copy_2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 210, 0);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  left: 597px;
+  top: 1997px;
+  width: 314px;
+  height: 420px;
+  z-index: 90;
+}
+.Make_your_ClassicBook {
+  font-size: 19.303px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -webkit-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -ms-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  position: absolute;
+  left: 659.909px;
+  top: 2384.546px;
+  z-index: 89;
+}
+.Rectangle_4 {
+  background-color: rgb(255, 210, 0);
+  position: absolute;
+  left: 607px;
+  top: 2371px;
+  width: 305px;
+  height: 47px;
+  z-index: 88;
+}
+
+
+
+.PremiumBook {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 86;
+}
+._759 {
+  font-size: 22px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1120.188px;
+  top: 2315.363px;
+  z-index: 85;
+}
+.Layer_6_copy_5 {
+  background-image: url("Layer 6 copy 5.png");
+  position: absolute;
+  left: 1014px;
+  top: 2139px;
+  width: 20px;
+  height: 20px;
+  z-index: 84;
+}
+.Layer_6_copy_5 {
+  background-image: url("Layer 6 copy 5.png");
+  position: absolute;
+  left: 1014px;
+  top: 2170px;
+  width: 20px;
+  height: 20px;
+  z-index: 83;
+}
+.Layer_6_copy_5 {
+  background-image: url("Layer 6 copy 5.png");
+  position: absolute;
+  left: 1014px;
+  top: 2202px;
+  width: 20px;
+  height: 20px;
+  z-index: 82;
+}
+.Layer_6_copy_6 {
+  background-image: url("Layer 6 copy 6.png");
+  position: absolute;
+  left: 1014px;
+  top: 2264px;
+  width: 20px;
+  height: 20px;
+  z-index: 81;
+}
+.Layer_6_copy_5 {
+  background-image: url("Layer 6 copy 5.png");
+  position: absolute;
+  left: 1014px;
+  top: 2233px;
+  width: 20px;
+  height: 20px;
+  z-index: 80;
+}
+.______42×50_cm_______50_pages_______hardcover__ {
+  font-size: 6.593px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1075.035px;
+  top: 2185.172px;
+  z-index: 79;
+}
+.PremiumBook {
+  font-size: 13px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1104.991px;
+  top: 2052.588px;
+  z-index: 78;
+}
+.Rounded_Rectangle_2_copy_3 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 210, 0);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0);
+  position: absolute;
+  left: 981px;
+  top: 1997px;
+  width: 314px;
+  height: 420px;
+  z-index: 77;
+}
+.Make_your_PremiumBook {
+  font-size: 19.303px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -webkit-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  -ms-transform: matrix( 1.12589928057554,0,0,1.12272382637915,0,0);
+  position: absolute;
+  left: 1038.616px;
+  top: 2384.546px;
+  z-index: 76;
+}
+.Rounded_Rectangle_1_copy_14 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 988px;
+  top: 2007px;
+  width: 311px;
+  height: 112px;
+  z-index: 75;
+}
+.Rectangle_4_copy_2 {
+  background-color: rgb(255, 210, 0);
+  position: absolute;
+  left: 991px;
+  top: 2371px;
+  width: 305px;
+  height: 47px;
+  z-index: 74;
+}
+
+
+________________________________
+
+.Testimonials {
+  font-size: 22(60)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 329.035px;
+  top: 2584.814px;
+  z-index: 70;
+}
+
+
+.John_Doe {
+  font-size: 11(30)px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 452.424px;
+  top: 2737.907px;
+  z-index: 69;
+}
+
+
+.Wedding_photographer {
+  font-size: 6.593px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 457.08px;
+  top: 2771.822px;
+  z-index: 68;
+}
+
+
+***
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+***
+
+._0 {
+  background-image: url("0.png");
+  position: absolute;
+  left: 217px;
+  top: 2673px;
+  width: 166px;
+  height: 248px;
+  z-index: 65;
+}
+
+.Ellipse {
+  border-radius: 50%;
+  background-color: rgb(255, 210, 0);
+  position: absolute;
+  left: 218px;
+  top: 2676px;
+  width: 158px;
+  height: 158px;
+  z-index: 64;
+}
+
+
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="26px" height="3px">
+<path fill-rule="evenodd"  fill="rgb(0, 0, 0)"
+ d="M-0.000,1.800 L-0.000,1.200 L19.158,1.200 L19.158,-0.000 L26.000,1.500 L19.158,3.000 L19.158,1.800 L-0.000,1.800 Z"/>
+</svg>
+.Next_testimonial {
+  font-size: 16px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 616.937px;
+  top: 3052.9px;
+  z-index: 60;
+}
+
+
+.make_your_photobook {
+  font-size: 19.303px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(33, 33, 33);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -webkit-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -ms-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  position: absolute;
+  left: 375.656px;
+  top: 3204.918px;
+  z-index: 57;
+}
+
+
+.Rounded_Rectangle_1_copy_2 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(1, 1, 1);
+  border-radius: 10px;
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 298px;
+  top: 3180px;
+  width: 381px;
+  height: 70px;
+  z-index: 56;
+}
+
+
+.banner_2 {
+  background-image: url("banner 2.png");
+  position: absolute;
+  left: -4px;
+  top: 2536px;
+  width: 1527px;
+  height: 767px;
+  z-index: 54;
+}
+
+___________________________
+
+.Terms_Payment_Shipping {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 52;
+}
+.Terms36px {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 51;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 256.844px;
+  top: 3494.89px;
+  width: 239px;
+  height: 153px;
+  z-index: 50;
+}
+.Terms {
+  font-size: 13px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 359.462px;
+  top: 3419.588px;
+  z-index: 49;
+}
+.Rounded_Rectangle_1_copy_16 {
+  background-color: rgba(247, 240, 230, 0);
+  position: absolute;
+  left: 221px;
+  top: 3466px;
+  width: 313px;
+  height: 236px;
+  z-index: 48;
+}
+.Rounded_Rectangle_1_copy_10 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 221px;
+  top: 3395px;
+  width: 313px;
+  height: 65px;
+  z-index: 47;
+}
+.Payment {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 45;
+}
+.Payment_methods:___•___VISA____•___MasterCard__ {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 637.844px;
+  top: 3494.872px;
+  width: 165px;
+  height: 143px;
+  z-index: 44;
+}
+.Payment {
+  font-size: 13px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 736.239px;
+  top: 3419.588px;
+  z-index: 43;
+}
+.Rounded_Rectangle_1_copy_17 {
+  background-color: rgba(247, 240, 230, 0);
+  position: absolute;
+  left: 603px;
+  top: 3466px;
+  width: 313px;
+  height: 236px;
+  z-index: 42;
+}
+.Rounded_Rectangle_1_copy_17 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 603px;
+  top: 3395px;
+  width: 313px;
+  height: 65px;
+  z-index: 41;
+}
+.Shipping {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 39;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 1021.844px;
+  top: 3494.89px;
+  width: 240px;
+  height: 153px;
+  z-index: 38;
+}
+.Shipping {
+  font-size: 13px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -webkit-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  -ms-transform: matrix( 2.73007713798811,0,0,2.73007713798811,0,0);
+  position: absolute;
+  left: 1116.937px;
+  top: 3419.088px;
+  z-index: 37;
+}
+.Rounded_Rectangle_1_copy_18 {
+  background-color: rgba(247, 240, 230, 0);
+  position: absolute;
+  left: 987px;
+  top: 3466px;
+  width: 313px;
+  height: 236px;
+  z-index: 36;
+}
+.Rounded_Rectangle_1_copy_18 {
+  background-color: rgba(255, 210, 0, 0);
+  position: absolute;
+  left: 987px;
+  top: 3395px;
+  width: 313px;
+  height: 65px;
+  z-index: 35;
+}
+.Button_4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 33;
+}
+.make_your_photobook {
+  font-size: 19.303px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -webkit-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  -ms-transform: matrix( 1.35611510791367,0,0,1.3469387755102,0,0);
+  position: absolute;
+  left: 646.656px;
+  top: 3798.918px;
+  z-index: 32;
+}
+.Rounded_Rectangle_1_copy_11 {
+  border-radius: 10px;
+  background-color: rgba(138, 255, 80, 0);
+  position: absolute;
+  left: 572px;
+  top: 3777px;
+  width: 377px;
+  height: 66px;
+  z-index: 31;
+}
+
+_______________________
+
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 28;
+}
+.About {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 27;
+}
+.About_us_Careers_Help_Press {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 218.844px;
+  top: 4040.072px;
+  z-index: 26;
+}
+.line {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 220px;
+  top: 4013px;
+  width: 152px;
+  height: 1px;
+  z-index: 25;
+}
+.Terms {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 23;
+}
+.line {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 453px;
+  top: 4013px;
+  width: 152px;
+  height: 1px;
+  z-index: 22;
+}
+.Terms_Payment_Shipping_Contact {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 452.517px;
+  top: 4039.968px;
+  z-index: 21;
+}
+.Product {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 19;
+}
+.line {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 685px;
+  top: 4013px;
+  width: 152px;
+  height: 1px;
+  z-index: 18;
+}
+.LightBook_ClassicBook_PremiumBook {
+  font-size: 18px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  font-variant: small-caps;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 684.844px;
+  top: 4040.072px;
+  z-index: 17;
+}
+.Social_icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 15;
+}
+.line {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 1148px;
+  top: 4013px;
+  width: 152px;
+  height: 1px;
+  z-index: 14;
+}
+.instagram {
+  background-image: url("instagram.png");
+  position: absolute;
+  left: 1234px;
+  top: 4045px;
+  width: 23px;
+  height: 24px;
+  z-index: 13;
+}
+.vk {
+  background-image: url("vk.png");
+  position: absolute;
+  left: 1192px;
+  top: 4045px;
+  width: 24px;
+  height: 24px;
+  z-index: 12;
+}
+.fb {
+  background-image: url("fb.png");
+  position: absolute;
+  left: 1148px;
+  top: 4045px;
+  width: 24px;
+  height: 24px;
+  z-index: 11;
+}
+.Asanov {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1520px;
+  height: 4339px;
+  z-index: 9;
+}
+.Designed_by_ {
+  font-size: 14px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.78260869565217,0,0,0.79166666666667,0,0);
+  -webkit-transform: matrix( 0.78260869565217,0,0,0.79166666666667,0,0);
+  -ms-transform: matrix( 0.78260869565217,0,0,0.79166666666667,0,0);
+  position: absolute;
+  left: 1153.765px;
+  top: 4130.882px;
+  z-index: 8;
+}
+.Logo2 {
+  background-image: url("Logo2.png");
+  position: absolute;
+  left: 1162px;
+  top: 4160px;
+  width: 55px;
+  height: 49px;
+  z-index: 7;
+}
+.Rounded_Rectangle_1_copy_12 {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(1, 1, 1);
+  border-radius: 10px;
+  background-color: rgba(138, 255, 80, 0);
+  position: absolute;
+  left: 1143px;
+  top: 4118px;
+  width: 91px;
+  height: 113px;
+  z-index: 6;
+}
+.©_2015_Photobook__All_rights_reserved {
+  font-size: 14px;
+  font-family: "PFAgoraSansPro";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 637.937px;
+  top: 4265.85px;
+  z-index: 4;
+}
+.Yellow_bg {
+  background-color: rgb(255, 210, 0);
+  position: absolute;
+  left: -92px;
+  top: 3962px;
+  width: 1704px;
+  height: 753px;
+  z-index: 3;
+}
+

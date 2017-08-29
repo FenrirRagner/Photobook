@@ -3,13 +3,13 @@ body {
 }
 
 nav{
-	display: flex;
+	/*display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: center;*/
 	margin: 0 auto;
-	/* width: 1520px; */
-	height: 79px;
-	border-top: 1px solid white;
+	max-width: 1520px;
+	height: 80px;
+	position: relative;
 }
 
 .nav-menu {
@@ -19,31 +19,41 @@ nav{
 	background-size: contain;
 	width: 25px;
 	height: 18px;
+	position: absolute;
+	top: 31px;
+	left: 159px;
 }
 
 .nav-label {
-	margin-right: 540px;
-	margin-left: 80px;
+	position: absolute;
+	top: 31px;
+	left: 250px;
 }
 
 .nav-btn-tel {
-	margin-right: 160px;
 	background-color: #FFD200;
-	padding: 5px;
-	padding-left: 20px;
-	padding-right: 20px;
 	text-decoration-style: dotted;
 	border-radius: 7px;
+	color: #000000;
+	position: absolute;
+	top: 21.5px;
+	right: 247px;
+	width: 210px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .nav-login {
 	display: block;
 	background-image: url(../image/Object_login.png);
 	background-repeat: no-repeat;
-/* 	margin-right: 80px; */
-	width: 33px;
-	height: 18px;
 	background-size: contain;
+	width: 33px;
+	height: 29px;
+	position: absolute;
+	top: 25.5px;
+	right: 159px;
 }
 
 .main-maker {
@@ -204,8 +214,12 @@ nav{
   text-align: center;
 }
 
-.advantage-step .advantage-step-import img {
+.advantage-step-import img {
 	height: 267px;
+}
+
+.advantage-steps img{
+	border-radius: 50%;
 }
 
 .advantage-btn {
@@ -288,18 +302,13 @@ nav{
   line-height: 1.2;
   text-align: center;
 }
->>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 
 .besseller:before {
 	content: "BESTSELLER";
 	position: absolute;
-<<<<<<< HEAD
 	left: 110px;
 	top: -20px;
 	background-color: rgb(255, 210, 0);
-
-
-=======
 	left: 75px;
 	top: -25px;
 	background-color: rgb(255, 210, 0);
@@ -314,5 +323,4 @@ nav{
 	height: 767px;
 	border-top: 1px solid white;
 	margin-top: 100px;
->>>>>>> 6ef4773ebb0194e2c108fd2eb6eced3a0a27fede
 }

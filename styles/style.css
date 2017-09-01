@@ -1,5 +1,13 @@
-body {
+@media screen and (max-width: 320px) {
+@-ms-viewport { width: 320px; }
+}
+ 
+@media screen and (min-width: 768px) and (max-width: 959px) {
+@-ms-viewport { width: 768px; }
+}
 
+body {
+ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 nav{
@@ -29,7 +37,6 @@ nav{
 
 .nav-btn-tel {
 	background-color: #FFD200;
-	text-decoration-style: dotted;
 	border-radius: 7px;
 	color: #000000;
 	position: absolute;
@@ -39,6 +46,18 @@ nav{
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	line-height: 1.2;
+	text-decoration: none;
+}
+
+.nav-btn-tel:after {
+	content: "";
+	border-bottom: 1.5px dotted black;
+	width: 70%;
+	height: 2px;
+	position: absolute;
+	bottom: 8px;
+	left: 15%;
 }
 
 .nav-login {
@@ -66,7 +85,7 @@ nav{
 
 .main-maker h1{
   font-size: 60px;
-  font-family: "PFAgoraSansPro";
+  
   font-variant: small-caps;
   line-height: 1.2;
   text-align: center;
@@ -74,7 +93,7 @@ nav{
 
 .main-maker h3 {
   font-size: 24px;
-  font-family: "PFAgoraSansPro";
+  
   line-height: 1.2;
   text-align: center;
 }
@@ -83,7 +102,7 @@ nav{
   display: block;
   text-align: center;
   font-size: 26px;
-  font-family: "PFAgoraSansPro";
+  
   color: rgb(33, 33, 33);
   text-transform: uppercase;
   line-height: 1.2;
@@ -226,7 +245,7 @@ nav{
 .advantage-btn {
   display: block;
   font-size: 26px;
-  font-family: "PFAgoraSansPro";
+  
   color: rgb(255, 255, 255);
   text-transform: uppercase;
   line-height: 1.2;
@@ -283,7 +302,7 @@ nav{
 .solutions-cards h3 {
   background-color: rgb(255, 210, 0);
   font-size: 36px;
-  font-family: "PFAgoraSansPro";
+  
   color: rgb(0, 0, 0);
   line-height: 1.2;
   text-align: center;
@@ -366,7 +385,7 @@ nav{
 	max-width: 1520px;
 	margin: 0 auto;
 	margin-top: 100px;
-	height: 767px;
+	min-height: 767px;
 	border-top: 1px solid white;
 	
 }
@@ -383,7 +402,6 @@ nav{
 .testimonial-head {
   height: 100px;
   font-size: 60px;
-  font-family: "PFAgoraSansPro";
   color: rgb(0, 0, 0);
   font-variant: small-caps;
   line-height: 1.2;
@@ -405,7 +423,6 @@ nav{
 
 .testimonial-person h3 {
   font-size: 30px;
-  font-family: "PFAgoraSansPro";
   font-variant: small-caps;
   line-height: 1.2;
   text-align: left;
@@ -415,7 +432,6 @@ nav{
 
 .testimonial-person p {
   font-size: 18px;
-  font-family: "PFAgoraSansPro";
   line-height: 1.2;
   text-align: left;
   margin-top: 0;
@@ -425,12 +441,14 @@ nav{
 
 .testimonial-content {
   max-width: 540px;
+  font-size: 16px;
+  line-height: 1.2;
+  text-align: left;
 }
 
 .testimonial-next {
   display: block;	
   font-size: 16px;
-  font-family: "PFAgoraSansPro";
   line-height: 1.2;
   text-align: left;
   color: #000000;
@@ -442,7 +460,6 @@ nav{
   display: block;
   text-align: center;
   font-size: 26px;
-  font-family: "PFAgoraSansPro";
   color: rgb(33, 33, 33);
   text-transform: uppercase;
   line-height: 1.2;
@@ -452,8 +469,207 @@ nav{
   width: 381px;
   margin: 0 auto;
   margin-top: 50px;
+  margin-bottom: 55px;
   padding: 10px;
   padding-left: 20px;
   padding-right: 20px;
   text-decoration: none;
+}
+
+.main-conditions {
+
+}
+
+.conditions-cards {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 1520px;
+	margin: 0 auto;
+}
+
+.condition-terms,
+.condition-payment,
+.condition-shipping {
+	max-height: 310px;
+	min-height: 310px;
+	min-width: 325px;
+	max-width: 325px;
+}
+
+.condition-terms {
+	margin-left: 220px;
+}
+
+.condition-shipping  {
+	margin-right: 220px;
+}
+
+.condition-payment {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.conditions-cards h3 {
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 1.2;
+  text-align: center;
+  background-color: rgb(255, 210, 0);
+  border-radius: 10px 10px 0 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.conditions-cards p, .conditions-cards ul {
+  background-color: rgb(247, 240, 230);
+  border-radius: 0 0 10px 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 35px;
+  padding-left: 35px;
+  padding-top: 30px;
+  font-size: 16px;
+  line-height: 1.2;
+  text-align: left;
+  max-height: 210px;
+  min-height: 210px;
+}
+
+.condition-shipping p b {
+	display: inline-block;
+	color: rgb(226, 26, 39);
+	line-height: 1.4;
+	margin-top: 10px;
+}
+
+.conditions-cards li {
+	margin-left: 45px;
+	margin-top: 10px;
+}
+
+.conditions-btn {
+  display: block;
+  font-size: 26px;
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(226, 26, 39);
+  width: 377px;
+  margin: 0 auto;
+  margin-top: 70px;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+footer {
+	min-height: 379px;
+	max-height: 379px;
+	/* width: 1520px; */
+	max-width: 1520px;
+	background-color: rgb(255, 210, 0);
+	border-top: 1px solid rgb(255, 210, 0);
+	margin: 0 auto;
+	margin-top: 120px;
+}
+
+.footer-blocks {
+	display: flex;
+	justify-content: start;
+	align-items: start;
+	max-width: 1117px;
+	width: 1117px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.footer-block-company,
+.footer-block-condition,
+.footer-block-photobook,
+.footer-block-social {
+	width: 155px;
+	height: 255px;
+	border-top: 1px solid black;
+}
+
+.footer-block-company {
+	margin-left: ;
+}
+
+.footer-block-condition {
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.footer-block-photobook {
+	margin-right: auto;
+}
+
+.footer-blocks ul {
+	margin-top: 0;
+}
+
+.footer-blocks li {
+	margin-top: 15px;
+	margin-left: -40px;
+	list-style: none;
+	font-size: 14px;
+}
+
+.footer-blocks li:first-child {
+	margin-top: 30px;
+}
+
+.footer-blocks a {
+	color: black;
+	text-decoration: none;
+}
+
+.footer-social-fb,
+.footer-social-vk,
+.footer-social-in {
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	width: 24px;
+	height: 24px;
+}
+
+.footer-social-fb {
+	background-image: url(../image/social_img/fb.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+.footer-social-vk {
+	background-image: url(../image/social_img/vk.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.footer-social-in {
+	background-image: url(../image/social_img/instagram.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+}
+
+.footer-social-logo {
+	display: block;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.footer-copyright {
+	width: 254px;
+	margin: 0 auto;
+	font-size: 12px;
+	line-height: 1.2
 }

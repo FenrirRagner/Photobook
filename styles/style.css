@@ -1,11 +1,3 @@
-@media screen and (max-width: 320px) {
-@-ms-viewport { width: 320px; }
-}
- 
-@media screen and (min-width: 768px) and (max-width: 959px) {
-@-ms-viewport { width: 768px; }
-}
-
 body {
  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
@@ -14,7 +6,9 @@ nav{
 	margin: 0 auto;
 	max-width: 1520px;
 	height: 80px;
-	position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .nav-menu {
@@ -24,52 +18,46 @@ nav{
 	background-size: contain;
 	width: 25px;
 	height: 18px;
-	position: absolute;
-	top: 31px;
-	left: 159px;
+  margin-right: 65px;
+  margin-left: 160px
 }
 
 .nav-label {
-	position: absolute;
-	top: 31px;
-	left: 250px;
+  margin-right: auto;
+
 }
 
 .nav-btn-tel {
+  display: block;
 	background-color: #FFD200;
-	border-radius: 7px;
+	border-radius: 10px;
 	color: #000000;
-	position: absolute;
-	top: 21.5px;
-	right: 247px;
-	width: 210px;
+	width: 212px;
 	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 	line-height: 1.2;
 	text-decoration: none;
+  margin-right: 55px;
 }
 
 .nav-btn-tel:after {
 	content: "";
+  display: block;
 	border-bottom: 1.5px dotted black;
 	width: 70%;
 	height: 2px;
-	position: absolute;
-	bottom: 8px;
-	left: 15%;
+  margin-left: 15%;
 }
 
 .nav-login {
 	display: block;
 	background-image: url(../image/Object_login.png);
 	background-repeat: no-repeat;
-	background-size: contain;
+
 	width: 33px;
 	height: 29px;
-	position: absolute;
-	top: 25.5px;
-	right: 159px;
+  margin-right: 160px;
 }
 
 .main-maker {
@@ -85,7 +73,7 @@ nav{
 
 .main-maker h1{
   font-size: 60px;
-  
+  margin-bottom: 0;
   font-variant: small-caps;
   line-height: 1.2;
   text-align: center;
@@ -93,16 +81,15 @@ nav{
 
 .main-maker h3 {
   font-size: 24px;
-  
   line-height: 1.2;
   text-align: center;
+  margin-top: 8px;
 }
 
 .main-maker-btn {
   display: block;
   text-align: center;
   font-size: 26px;
-  
   color: rgb(33, 33, 33);
   text-transform: uppercase;
   line-height: 1.2;
@@ -110,10 +97,11 @@ nav{
   border-radius: 10px;
   background-color: rgba(255, 210, 0, 0);
   margin: 0 auto;
+  margin-top: 65px;
   width: 381px;
-  padding: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
   text-decoration: none;
 }
 
@@ -123,7 +111,7 @@ nav{
 	align-items: center;
 	max-width: 100%;
 	margin: 0 auto;
-	margin-top: 50px;
+	margin-top: 55px;
 }
 
 .main-steps .step-1,
@@ -134,12 +122,12 @@ nav{
 }
 
 .main-steps .step-2 {
-	margin-left: 145px;
-	margin-right: 145px;
+	margin-left: 130px;
+	margin-right: 130px;
 }
 
 .main-steps .step-3 {
-	margin-right: 145px;
+	margin-right: 130px;
 }
 
 .step-1-img {
@@ -160,11 +148,11 @@ nav{
 .step-3-img:after {
 	content: "";
 	background-image: url(../image/steps_img/steps-line.png);
-	width: 131px;
+	width: 130px;
 	height: 5px;
 	position: absolute;
-	top: 50%;
-	left: 140px;
+	top: 45%;
+	left: 130px;
 }
 
 .step-1 .step-1-img,
@@ -178,8 +166,8 @@ nav{
   border-color: rgb(255, 210, 0);
   border-radius: 50%;
   background-color: rgba(255, 210, 0, 0);
-  width: 140px;
-  height: 140px;
+  width: 130px;
+  height: 130px;
   position: relative;
 }
 
@@ -245,7 +233,7 @@ nav{
 .advantage-btn {
   display: block;
   font-size: 26px;
-  
+
   color: rgb(255, 255, 255);
   text-transform: uppercase;
   line-height: 1.2;
@@ -302,7 +290,7 @@ nav{
 .solutions-cards h3 {
   background-color: rgb(255, 210, 0);
   font-size: 36px;
-  
+
   color: rgb(0, 0, 0);
   line-height: 1.2;
   text-align: center;
@@ -385,9 +373,9 @@ nav{
 	max-width: 1520px;
 	margin: 0 auto;
 	margin-top: 100px;
-	min-height: 767px;
+	max-height: 767px;
 	border-top: 1px solid white;
-	
+
 }
 
 .testimonial-slide {
@@ -396,7 +384,7 @@ nav{
 }
 
 .testimonial {
-   max-width: 550px;	
+   max-width: 550px;
 }
 
 .testimonial-head {
@@ -447,7 +435,7 @@ nav{
 }
 
 .testimonial-next {
-  display: block;	
+  display: block;
   font-size: 16px;
   line-height: 1.2;
   text-align: left;

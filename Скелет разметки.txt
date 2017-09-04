@@ -1,0 +1,23 @@
+Наименования тэгов и классов:
+header
+	nav
+		a class nav-menu
+		img class nav-label
+		a class nav-btn-tel
+		a nav-login
+
+main
+	section class main-maker
+	section class main-steps
+	section class main-advantage
+	section class main-solutions
+	section class main-testimonials
+	section class main-conditions
+	
+footer
+div class footer-blocks
+	ul class footer-block-company	
+	ul class footer-block-condition	
+	ul class footer-block-photobook
+	div class footer-block-social
+	div class footer-copyright

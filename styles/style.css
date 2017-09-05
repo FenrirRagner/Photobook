@@ -6,9 +6,9 @@ body {
 .top-navigation{
 	display: flex;
 	justify-content: center;
-	align-items: center;	
+	align-items: center;
 	max-width: 1520px;
-	height: 80px;	
+	height: 80px;
 	margin: 0 auto;
 }
 
@@ -47,14 +47,14 @@ body {
 	height: 2px;
 	margin-left: 15%;
 	content: "";
-	border-bottom: 1.5px dotted black;	
+	border-bottom: 1.5px dotted black;
 }
 
 .top-navigation__btn-login {
 	display: block;
 	width: 33px;
 	height: 29px;
-	margin-right: 160px;	
+	margin-right: 160px;
 	background-image: url(../image/Object_login.png);
 	background-repeat: no-repeat;
 }
@@ -73,7 +73,7 @@ body {
 .main-creator__title {
 	margin-bottom: 0;
 	text-align: center;
-	line-height: 1.2;		
+	line-height: 1.2;
 	font-variant: small-caps;
 	font-size: 60px;
 }
@@ -81,7 +81,7 @@ body {
 .main-creator__subtitle {
 	margin-top: 8px;
 	text-align: center;
-	line-height: 1.2;	
+	line-height: 1.2;
 	font-size: 24px;
 }
 
@@ -93,11 +93,11 @@ body {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	border: 1px solid rgb(1, 1, 1);
-	border-radius: 10px;	
+	border-radius: 10px;
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: none;
-	line-height: 1.2;	
+	line-height: 1.2;
 	font-size: 26px;
 	background-color: rgba(255, 210, 0, 0);
 	color: rgb(33, 33, 33);
@@ -138,7 +138,7 @@ body {
 }
 
 .main-steps__img:not(.get)::after {
-	position: absolute;	
+	position: absolute;
 	top: 45%;
 	left: 130px;
 	width: 130px;
@@ -163,7 +163,7 @@ body {
 .main-steps__text {
 	display: inline-block;
 	line-height: 1.2;
-	text-align: center;	
+	text-align: center;
 	font-size: 22px;
 }
 
@@ -224,11 +224,11 @@ body {
 	margin-top: 65px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	border-radius: 10px;	
+	border-radius: 10px;
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: none;
-	line-height: 1.2;	
+	line-height: 1.2;
 	font-size: 26px;
 	background-color: rgb(226, 26, 39);
 	color: rgb(255, 255, 255);
@@ -254,7 +254,7 @@ body {
 	min-width: 315px;
 	max-width: 315px;
 	max-height: 420px;
-	min-height: 420px;	
+	min-height: 420px;
 	border: 5px solid rgb(255, 210, 0);
 	border-radius: 10px;
 }
@@ -280,7 +280,7 @@ body {
 	text-align: center;
 	line-height: 1.2;
 	font-size: 36px;
-	color: rgb (0, 0, 0);	
+	color: rgb (0, 0, 0);
 	background-color: rgb(255, 210, 0);
 }
 
@@ -321,7 +321,7 @@ body {
 	text-decoration: none;
 	line-height: 1.2;
 	font-size: 22px;
-	color: rgb (0, 0, 0);
+	color: rgb(0, 0, 0);
 	background-color: rgb(255, 210, 0);
 }
 
@@ -429,41 +429,37 @@ body {
 }
 
 /*Conditions section*/
-.main-conditions {
 
-}
-
-.conditions-cards {
+.main-conditions-cards {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	max-width: 1520px;
 	margin: 0 auto;
+  margin-top: 95px;
 }
 
-.condition-terms,
-.condition-payment,
-.condition-shipping {
-	max-height: 310px;
-	min-height: 310px;
-	min-width: 325px;
+.main-condition__unit {
+  min-width: 325px;
 	max-width: 325px;
+	min-height: 310px;
+	max-height: 310px;
 }
 
-.condition-terms {
+.main-condition__unit:nth-child(1) {
 	margin-left: 220px;
 }
 
-.condition-shipping	{
-	margin-right: 220px;
-}
-
-.condition-payment {
+.main-condition__unit:nth-child(2) {
 	margin-left: 70px;
 	margin-right: 70px;
 }
 
-.conditions-cards h3 {
+.main-condition__unit:nth-child(3)	{
+	margin-right: 220px;
+}
+
+.main-condition__subject {
 	font-size: 32px;
 	font-weight: normal;
 	line-height: 1.2;
@@ -476,7 +472,8 @@ body {
 	margin-top: 0;
 }
 
-.conditions-cards p, .conditions-cards ul {
+.main-condition__text,
+.main-condition__list {
 	background-color: rgb(247, 240, 230);
 	border-radius: 0 0 10px 10px;
 	margin-top: 0;
@@ -491,32 +488,16 @@ body {
 	min-height: 210px;
 }
 
-.condition-shipping p b {
+.main-condition__important {
 	display: inline-block;
 	color: rgb(226, 26, 39);
 	line-height: 1.4;
 	margin-top: 10px;
 }
 
-.conditions-cards li {
+.main-condition__list-item {
 	margin-left: 45px;
 	margin-top: 10px;
-}
-
-.conditions-btn {
-	display: block;
-	font-size: 26px;
-	color: rgb(255, 255, 255);
-	text-transform: uppercase;
-	line-height: 1.2;
-	text-align: center;
-	border-radius: 10px;
-	background-color: rgb(226, 26, 39);
-	width: 377px;
-	margin: 0 auto;
-	margin-top: 70px;
-	padding: 20px;
-	text-decoration: none;
 }
 
 
